@@ -1,3 +1,4 @@
+// Po ilu godzinach liczba bakterii przekroczy miliard?
 #include <iostream>
 
 using namespace std;
