@@ -1,5 +1,8 @@
-# ignores everything except .cpp
-
+# ignore everything
 *
 
+# except
+!.gitignore
+!README.md
+!*/
 !*.cpp
