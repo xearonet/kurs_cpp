@@ -1,4 +1,4 @@
-// Obliczanie sredniej 5 ocen
+// Obliczanie ilości dni w miesiacu
 #include <iostream>
 using namespace std;
 
