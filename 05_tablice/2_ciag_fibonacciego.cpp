@@ -1,4 +1,4 @@
-// Obliczanie sredniej 5 ocen
+// Wyznaczanie wyrazu ciągu Fibonacciego
 #include <iostream>
 #include <iomanip>
 using namespace std;
@@ -27,8 +27,8 @@ int main()
         // cout<<endl<<"Wyraz nr "<<i+1<<": "<<fib[i];
     // }
     
-    cout<<endl<<"Wyraz nr "<<n<<": "<<fib[n-1];
-    cout<<endl<<"Zlota liczba: "<<fib[n-1]/fib[n-2];
+    cout<<"Wyraz nr "<<n<<": "<<fib[n-1]<<endl;
+    cout<<"Zlota liczba: "<<fib[n-1]/fib[n-2]<<endl;
 
     return 0;
 }

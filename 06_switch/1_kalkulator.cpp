@@ -1,4 +1,4 @@
-// Obliczanie sredniej 5 ocen
+// Kalkulator
 #include <iostream>
 using namespace std;
 
